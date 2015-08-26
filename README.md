@@ -10,15 +10,16 @@ a currated list of pharmacometrics material
 	- [africa](#africa)
 	- [asia](#asia)
 	- [south america](#southam)
-- [clinical](#clinical)
-- [methodology](#methodology)
-- [drugdev](#drugdev)
-- [statistics](#statistics)
+- [journals/conferences](#journals-conferences)
+	- [clinical](#clinical)
+	- [methodology](#methodology)
+	- [drugdev](#drugdev)
+	- [statistics](#statistics)
 - [tutorials](#tutorials)
 - [blogs](#blogs)
-- [personalblogs](#personalblogs)
-- [commercialblogs](#commercialblogs)
-- [otherblogs](#otherblogs)
+	- [personalblogs](#personalblogs)
+	- [commercialblogs](#commercialblogs)
+	- [otherblogs](#otherblogs)
 - [books](#books)
 	- [clinpharm](#clinpharm)
 	- [math](#math)
@@ -27,27 +28,30 @@ a currated list of pharmacometrics material
 	- [programming_books](#programming_books)
 
 ---
-### resources
 
-### clinical
+# resources
 
-### methodology
+## journals-conferences
 
-### drugdev
+#### clinical
 
-### statistics
+#### methodology
 
-### tutorials
+#### drugdev
 
-### blogs
+#### statistics
 
-### personalblogs
+## tutorials
 
-### commercialblogs
+## blogs
 
-### otherblogs
+#### personalblogs
 
-### books
+#### commercialblogs
+
+#### otherblogs
+
+## books
 
 #### clinpharm
 
