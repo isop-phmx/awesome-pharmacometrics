@@ -20,11 +20,11 @@ a currated list of pharmacometrics material
 - [commercialblogs](#commercialblogs)
 - [otherblogs](#otherblogs)
 - [books](#books)
-- [clinpharm](#clinpharm)
-- [math](#math)
-- [stats](#stats)
-- [softwareeng](#softwareeng)
-- [programming_books](#programming_books)
+	- [clinpharm](#clinpharm)
+	- [math](#math)
+	- [stats](#stats)
+	- [softwareeng](#softwareeng)
+	- [programming_books](#programming_books)
 
 ---
 ### resources
