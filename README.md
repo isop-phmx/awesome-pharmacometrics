@@ -49,12 +49,12 @@ a currated list of pharmacometrics material
 
 ### books
 
-### clinpharm
+#### clinpharm
 
-### math
+#### math
 
-### stats
+#### stats
 
-### softwareeng
+#### software-engineering
 
-### programming_books
+#### programming
